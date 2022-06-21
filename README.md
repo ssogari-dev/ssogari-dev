@@ -1,5 +1,5 @@
 ## Hello, SSoGari !
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang0911">
+<a href="https://solved.ac/profile/hwang0911" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang0911"></a>
 
 ### 개발 (안)하는 생선, 쏘가리입니다
 - Student @ Gachon University / Department of AI·Software

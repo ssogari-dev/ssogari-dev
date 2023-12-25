@@ -3,8 +3,9 @@
 
 ### 개발 (안)하는 생선, 쏘가리입니다
 - Student @ Gachon University / Department of AI·Software
-- Working @ Korea Army Signal School   
-  - Prev. Gachon Univ IT Resource Team
+- Working @ ...
+  - Prev. Korea Army Signal School / Department of CERT Training
+  - Prev. Gachon Univ. / IT Resource Team
 
 <hr>
 

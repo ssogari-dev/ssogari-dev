@@ -1,5 +1,4 @@
 ## Hello, SSoGari !
-<a href="https://solved.ac/profile/hwang0911" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang0911"></a>
 
 ### 개발 (안)하는 생선, 쏘가리입니다
 - Student @ Gachon University / Department of AI·Software
@@ -8,7 +7,7 @@
   - Prev. Gachon Univ. / IT Resource Team
 
 <hr>
-
+<a href="https://solved.ac/profile/hwang0911" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang0911"></a>
 ### Programming
 _with a Lack of Skills_    
 - **C / C#** / Java / Python

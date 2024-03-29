@@ -15,6 +15,10 @@ _with a Lack of Skills_
 - ~~Node.js~~  
 
 _still Studying, forever_   
+
+### Security
+_Main Major_
+
    
    
    

@@ -4,7 +4,7 @@
 - Student @ Gachon University / Department of AI·Software
 - Working @ ...
   - Prev. Korea Army Signal School / Department of CERT Training
-  - Prev. Gachon Univ. / IT Resource Team
+  - Prev. [Private] / IT Support Team.
 
 <hr>
 <a href="https://solved.ac/profile/hwang0911" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang0911"></a>

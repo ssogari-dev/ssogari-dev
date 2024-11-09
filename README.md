@@ -7,11 +7,10 @@
   - Prev. [Private] / IT Support Team.
 
 <hr>
-<a href="https://solved.ac/profile/hwang0911" target="_blank"><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hwang0911"></a>
 
 ### Programming
 _with a Lack of Skills_    
-- **C / C#** / Java / Python
+- **C / C#** / Java / Python / React
 - ~~Node.js~~  
 
 _still Studying, forever_   

@@ -1,7 +1,7 @@
 ## Hello, SSoGari !
 
 ### 개발 (안)하는 생선, 쏘가리입니다
-- Student @ Gachon University / Department of AI·Software
+- Student @ Department of AI·Software
 - Working @ ...
   - Prev. Korea Army Signal School / Department of CERT Training
   - Prev. [Private] / IT Support Team.
